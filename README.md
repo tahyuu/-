@@ -16,3 +16,7 @@ python -m pip install pypiwin32
 ```
 python -m pip install wxpython
 ```
+### 5, install imagehash
+```
+python -m pip install imagehash
+```
