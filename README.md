@@ -12,3 +12,7 @@ git clone git@github.com:zs3189/-.git SHHuPai
 ```
 python -m pip install pypiwin32
 ```
+### 4, install wxpython
+```
+python -m pip install wxpython
+```
