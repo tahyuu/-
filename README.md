@@ -1,4 +1,4 @@
-# -
+# How to setup hupai enviroment
 hupai project
 ### 1, clone to program to local
 ```
