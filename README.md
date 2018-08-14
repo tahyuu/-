@@ -2,7 +2,7 @@
 hupai project
 ### 1, clone to program to local
 ```
-git clone git@github.com:zs3189/-.git SHHuPai
+git clone git@github.com:tahyuu/-.git SHHuPai
 ```
 ### 2, install pyautogui 
 ```
