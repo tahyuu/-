@@ -1,4 +1,4 @@
-# How to setup hupai enviroment
+# How to setup license plate enviroment
 hupai project
 ### 1, clone to program to local
 ```
